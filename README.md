@@ -1,3 +1,3 @@
 # Tomorrow's solutions, today.
 
-lee@managh.org
+[lee@managh.org](mailto:lee@managh.org)
