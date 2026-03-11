@@ -23,9 +23,10 @@ section {
     font-size: 40px;
     width: 60%;
     float: left;
-    padding-left: 25px;
+    padding-left: 27px;
 }
 .managh {
 	background: black;
     color: white;
+	padding-left: 2px;
 }
